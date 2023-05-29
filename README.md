@@ -1,7 +1,5 @@
-<!DOCTYPE html>
 <html>
 <head>
-    <title>Tic Tac Toe Game Instructions</title>
 </head>
 <body>
     <h1>Instructions to Run the Tic Tac Toe Game</h1>
